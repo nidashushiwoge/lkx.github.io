@@ -1,6 +1,6 @@
 # lkx.github.io
  my personal website
-# Personal Website - Lee Casey
+# Personal Website - 李凯旋
 
 ## Overview
 A modern, responsive personal website showcasing professional skills, projects, and contact information.
